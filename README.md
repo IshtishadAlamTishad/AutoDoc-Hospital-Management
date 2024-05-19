@@ -2,11 +2,17 @@
 
 
 ## Prerequisites
+### 1. Visual Studio 2022
+### 2. C# WinForms
+### 3. SQL Server Management Studio 20
 
-## Introduction 
+# Introduction 
 
 Revolutionizing Hospital Management System with C# and DBMS Integration. Our innovative solution not only empowers patients to effortlessly purchase medicine, items and access detailed reports but also facilitates secure, encrypted chat for seamless collaboration among users, ensuring efficient communication even within medical rooms. Admin oversight guarantees data integrity, while doctors deliver personalized care. Nurses and staff provide essential support, ensuring operational excellence. This efficient application represents a significant advancement in healthcare technology, streamlining processes and enhancing patient care.
 
+# Youtube
+For better view ->
+[View](https://youtu.be/6YstV3XasoQ?si=X5FxmtJsHyjJ8C4Z)
 
 ## User Stories
 The system validates credentials and allows access upon correct input. 
@@ -87,14 +93,6 @@ View report history.
 
 ### Terms & Conditions:
 Available on all user panels to ensure compliance with hospital management system rules.
-# ...................................................................................................................................
-
-# View Forms
-
-### Login Functionality
-Admin can securely log in using a unique Admin ID and password. 
-
-
 # ...................................................................................................................................
 
 # ER Diagram
