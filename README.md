@@ -88,7 +88,6 @@ View report history.
 Available on all user panels to ensure compliance with hospital management system rules.
 # ...................................................................................................................................
 
-
 # View Forms
 
 ### Login Functionality
@@ -97,7 +96,6 @@ The system validates credentials and allows access upon correct input.
 Incorrect entries prompt error messages for wrong user ID or password.
 
 ![login](https://github.com/IshtishadAlamTishad/AutoDoc-Hospital-Management/assets/96460346/b645049c-7c09-4565-8063-6abf2eba311a)
-
 
 ## Signup:
 Every user needs to register his/her data through Signup panel otherwise the user cannot login. 
@@ -114,18 +112,13 @@ The system generate ID for user and for balance and salary initially it will be 
 
 ![a1](https://github.com/IshtishadAlamTishad/AutoDoc-Hospital-Management/assets/96460346/b1e9d3dd-fb4b-480e-9969-a53e815aa75b)
 
-
 ![a4](https://github.com/IshtishadAlamTishad/AutoDoc-Hospital-Management/assets/96460346/f8b5a76e-2d2d-48c5-a3fa-37afc275137a)
-
 
 ![a2](https://github.com/IshtishadAlamTishad/AutoDoc-Hospital-Management/assets/96460346/20498ebc-541c-4197-9ed8-74029a68fe2c)
 
-
 ![a3](https://github.com/IshtishadAlamTishad/AutoDoc-Hospital-Management/assets/96460346/1ca64da5-67ca-4f31-bc17-0b0b81fbd0c0)
 
-
 ![a5](https://github.com/IshtishadAlamTishad/AutoDoc-Hospital-Management/assets/96460346/8fb40ab5-fa1e-4e8f-acb4-5da67d79663c)
-
 
 ![a6](https://github.com/IshtishadAlamTishad/AutoDoc-Hospital-Management/assets/96460346/2faf49e7-013b-4d25-8f20-b06fffba85c9)
 
